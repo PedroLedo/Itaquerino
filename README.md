@@ -15,7 +15,7 @@ O projeto nasceu com o objetivo de **democratizar o acesso à tecnologia** e **f
 
 ## ⚙️ Especificações Técnicas
 - Microcontrolador: **ATmega328P**  
-- Tensão de operação: **5V**  
+- Tensão de operação: **5V/3,3V**  
 - Tensão de entrada recomendada: **7–12V**  
 - Entradas/Saídas digitais: **14 (6 com PWM)**  
 - Entradas analógicas: **6**  
@@ -41,13 +41,11 @@ O repositório contém:
 
 ---
 
-## 🧑‍💻 Como Contribuir
-Contribuições são muito bem-vindas!  
-1. Faça um **fork** do repositório  
-2. Crie uma nova **branch** para sua modificação (`git checkout -b minha-modificacao`)  
-3. Faça o **commit** das alterações (`git commit -m 'Adiciona novo exemplo de projeto'`)  
-4. Envie o **push** para o seu fork (`git push origin minha-modificacao`)  
-5. Abra um **Pull Request**  
+## 🧩 Como Contribuir
+Sua opinião é essencial para o aprimoramento do projeto!  
+Por favor, preencha o formulário de avaliação disponível no link abaixo:
+
+👉 **[Avaliar o Projeto Itaquerino](https://forms.gle/SEU_LINK_AQUI)**
 
 ---
 
