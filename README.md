@@ -54,7 +54,7 @@ O repositório contém:
 Sua opinião é essencial para o aprimoramento do projeto!  
 Por favor, preencha o formulário de avaliação clicando no selo acima ou no link abaixo:
 
-👉 **[Avaliar o Projeto Itaquerino](https://forms.gle/SEU_LINK_AQUI)**  
+👉 **[Avaliar o Projeto Itaquerino](https://docs.google.com/forms/d/e/1FAIpQLSfPFzzMSY2Rn11TdZ4WMFOv701XhoNtTf5vR1-V6YRWC5kvNg/viewform?usp=header)**  
   
 ---
 
