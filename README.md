@@ -51,6 +51,13 @@ Por favor, preencha o formulário de avaliação clicando no selo acima ou no li
 
 ---
 
+## 👥 Colaboradores
+
+- Prof. Daniel R. Sousa — orientação técnica, contribuição em design da placa.  
+  [GitHub: profdanielrsousa](https://github.com/profdanielrsousa)
+  
+---
+
 ## 📄 Licença
 Este projeto é licenciado sob a **MIT License** — consulte o arquivo [LICENSE](LICENSE) para mais detalhes.  
 
