@@ -43,18 +43,18 @@ O repositório contém:
 
 ---
 
+## 👥 Colaboradores
+
+- Prof. Daniel R. Sousa — orientação técnica, contribuição em design da placa.  
+  [GitHub: profdanielrsousa](https://github.com/profdanielrsousa)
+
+---
+
 ## 🧩 Como Contribuir
 Sua opinião é essencial para o aprimoramento do projeto!  
 Por favor, preencha o formulário de avaliação clicando no selo acima ou no link abaixo:
 
 👉 **[Avaliar o Projeto Itaquerino](https://forms.gle/SEU_LINK_AQUI)**  
-
----
-
-## 👥 Colaboradores
-
-- Prof. Daniel R. Sousa — orientação técnica, contribuição em design da placa.  
-  [GitHub: profdanielrsousa](https://github.com/profdanielrsousa)
   
 ---
 
