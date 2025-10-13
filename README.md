@@ -8,7 +8,7 @@ O projeto nasceu com o objetivo de **democratizar o acesso à tecnologia** e **f
 ## 🎯 Objetivos do Projeto
 - Desenvolver uma **placa de baixo custo e código aberto** para aplicações educacionais e científicas.  
 - Incentivar o **aprendizado de eletrônica e programação em C/C++** em escolas técnicas e universidades.  
-- Fornecer **material didático gratuito** e acessível via **QR Code**.  
+- Fornecer **material didático** e acessível via **QR Code**.  
 - Estimular o **desenvolvimento tecnológico local** e a cultura *maker* em instituições públicas.  
 
 ---
