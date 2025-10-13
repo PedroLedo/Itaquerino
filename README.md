@@ -1,4 +1,6 @@
-# 🧠 Projeto Itaquerino
+# 🧠 Projeto Itaquerino  
+
+[![Avalie o Projeto](https://img.shields.io/badge/Avaliar%20no%20Google%20Forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white)](https://forms.gle/SEU_LINK_AQUI)
 
 O **Itaquerino** é uma placa microcontroladora open-source desenvolvida na **Fatec Itaquera**, baseada no **ATmega328P** — o mesmo chip utilizado no Arduino UNO.  
 O projeto nasceu com o objetivo de **democratizar o acesso à tecnologia** e **fortalecer a produção acadêmica nacional**, oferecendo uma alternativa nacional e acessível para o ensino de eletrônica e automação.
@@ -15,7 +17,7 @@ O projeto nasceu com o objetivo de **democratizar o acesso à tecnologia** e **f
 
 ## ⚙️ Especificações Técnicas
 - Microcontrolador: **ATmega328P**  
-- Tensão de operação: **5V/3,3V**  
+- Tensão de operação: **5V**  
 - Tensão de entrada recomendada: **7–12V**  
 - Entradas/Saídas digitais: **14 (6 com PWM)**  
 - Entradas analógicas: **6**  
@@ -43,9 +45,9 @@ O repositório contém:
 
 ## 🧩 Como Contribuir
 Sua opinião é essencial para o aprimoramento do projeto!  
-Por favor, preencha o formulário de avaliação disponível no link abaixo:
+Por favor, preencha o formulário de avaliação clicando no selo acima ou no link abaixo:
 
-👉 **[Avaliar o Projeto Itaquerino](https://forms.gle/SEU_LINK_AQUI)**
+👉 **[Avaliar o Projeto Itaquerino](https://forms.gle/SEU_LINK_AQUI)**  
 
 ---
 
@@ -55,8 +57,7 @@ Este projeto é licenciado sob a **MIT License** — consulte o arquivo [LICENSE
 ---
 
 ## 🏫 Créditos
-Desenvolvido por alunos e professores da **Fatec Itaquera**  
+Desenvolvido por alunos e professores da **Fatec Itaquera**,  
 com apoio do **Centro Paula Souza** e iniciativas de **Iniciação Científica Jr. (CNPq)**.  
 
 **Projeto Itaquerino — tecnologia aberta feita por estudantes, para estudantes.**
-
