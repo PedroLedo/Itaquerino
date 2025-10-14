@@ -34,7 +34,7 @@ Contrato de Licença: Concorde com os termos da licença para continuar.
 
 ![Texto alternativo](https://github.com/PedroLedo/Itaquerino/blob/main/docs/imagem2.png?raw=true)
 
-Selecione para qual usuario realizar a instalação
+Selecione para qual usuário deseja instalar.
 
 ![Texto alternativo](https://github.com/PedroLedo/Itaquerino/blob/main/docs/imagem3.png?raw=true)
 
