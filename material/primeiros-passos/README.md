@@ -34,6 +34,8 @@ Contrato de Licença: Concorde com os termos da licença para continuar.
 
 ![Texto alternativo](https://github.com/PedroLedo/Itaquerino/blob/main/docs/imagem2.png?raw=true)
 
+
+
 Opções de Instalação: Na tela de opções, é muito importante que você deixe todas as caixas marcadas, especialmente a opção "Install USB driver". Esses drivers são essenciais para que o computador consiga se comunicar com a placa através da porta USB.
 
 Diretório de Instalação: Escolha onde o programa será instalado (o local padrão é geralmente a melhor opção) e clique em "Install".
