@@ -46,11 +46,4 @@ Confirmação de Drivers: Durante o processo, o Windows pode pedir sua permissã
 
 Finalização: Ao final, clique em "Close". A Arduino IDE estará instalada e um atalho terá sido criado na sua área de trabalho.
 
-► Para macOS
-Monte a Imagem: Dê um duplo clique no arquivo .dmg que você baixou. Uma janela do Finder aparecerá.
-
-Arraste para a Pasta Aplicações: Na janela, você verá o ícone da Arduino IDE e um atalho para a pasta "Aplicações" (Applications). Simplesmente clique e arraste o ícone do Arduino para cima do atalho da pasta.
-
-Autorização de Segurança: Na primeira vez que você abrir a Arduino IDE, o macOS pode exibir um aviso de segurança, informando que o aplicativo foi baixado da internet. Clique em "Abrir" para confirmar que você confia no software.
-
 🔗 Voltar ao [repositório principal](../../..)
