@@ -38,9 +38,9 @@ Selecione para qual usuario realizar a instalação
 
 ![Texto alternativo](https://github.com/PedroLedo/Itaquerino/blob/main/docs/imagem3.png?raw=true)
 
-Opções de Instalação: Na tela de opções, é muito importante que você deixe todas as caixas marcadas, especialmente a opção "Install USB driver". Esses drivers são essenciais para que o computador consiga se comunicar com a placa através da porta USB.
-
 Diretório de Instalação: Escolha onde o programa será instalado (o local padrão é geralmente a melhor opção) e clique em "Install".
+
+![Texto alternativo](https://github.com/PedroLedo/Itaquerino/blob/main/docs/imagem4.png?raw=true)
 
 Confirmação de Drivers: Durante o processo, o Windows pode pedir sua permissão para instalar os drivers da Arduino. Confirme e autorize todas as solicitações.
 
