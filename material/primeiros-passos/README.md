@@ -28,6 +28,8 @@ O site geralmente detecta seu sistema operacional (Windows, macOS ou Linux) e su
  Para Windows
 Execute o Instalador: Após o download, você terá um arquivo .exe. Dê um duplo clique para iniciá-lo.
 
+(./docs/imagem1.png)
+
 Contrato de Licença: Concorde com os termos da licença para continuar.
 
 Opções de Instalação: Na tela de opções, é muito importante que você deixe todas as caixas marcadas, especialmente a opção "Install USB driver". Esses drivers são essenciais para que o computador consiga se comunicar com a placa através da porta USB.
