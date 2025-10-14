@@ -75,7 +75,7 @@ com apoio do **Centro Paula Souza** e iniciativas de **Iniciação Científica J
 
 Se é sua primeira vez com o Itaquerino, siga o guia de inicialização abaixo:
 
-<a href="./materiais/primeiros-passos/tutorial.md">
+<a href="./material/primeiros-passos">
   <img src="https://img.shields.io/badge/📘%20Acessar%20Primeiros%20Passos-blue?style=for-the-badge" alt="Primeiros Passos">
 </a>
 
