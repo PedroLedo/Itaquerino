@@ -1,10 +1,12 @@
 # 💻 Conexão via USB-TTL
 
-A placa Itaquerino não possui gravador usb interno, portanto, é necessario utilizar um gravador externo, que neste caso é o com chip CH340
+A placa Itaquerino não possui gravador usb interno, portanto, é necessario utilizar um gravador externo, que neste caso é o com chip CH340.
+
+![Texto alternativo](https://github.com/PedroLedo/Itaquerino/blob/main/docs/imagem5.png?raw=true)
 
 ---
 
-🛠️ 1. conexões
+🛠️ 1. Conexões
 
 ## Especificações da Placa Itaquerino
 
@@ -15,20 +17,8 @@ A placa Itaquerino não possui gravador usb interno, portanto, é necessario uti
 | RXD | TXD |
 | 5V | 5V |
 
-<p align="center">
-<a href="https://www.arduino.cc/en/software" target="_blank" title="Baixar Arduino IDE">
-<img src="https://img.shields.io/badge/Arduino%20IDE-Download-00979D?style=for-the-badge&logo=arduino" alt="Baixar Arduino IDE"/>
-</a>
-</p>
 
-Ao clicar no botão, você será direcionado para a página de downloads.
-Procure pela Arduino IDE 2.x. Esta é a versão mais moderna, rápida e com recursos úteis como autocompletar código, o que facilita muito a programação.
-O site geralmente detecta seu sistema operacional (Windows, macOS ou Linux) e sugere o download correto. Clique na opção correspondente para iniciar o download.
 
- Para Windows
-Execute o Instalador: Após o download, você terá um arquivo .exe. Dê um duplo clique para iniciá-lo.
-
-![Texto alternativo](https://github.com/PedroLedo/Itaquerino/blob/main/docs/imagem1.png?raw=true)
 
 Contrato de Licença: Concorde com os termos da licença para continuar.
 
