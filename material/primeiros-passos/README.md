@@ -28,7 +28,7 @@ O site geralmente detecta seu sistema operacional (Windows, macOS ou Linux) e su
  Para Windows
 Execute o Instalador: Após o download, você terá um arquivo .exe. Dê um duplo clique para iniciá-lo.
 
-![Texto alternativo](https://github.com/PedroLedo/Itaquerino/issues/1#issue-3558794951)
+![Texto alternativo](https://github.com/user-attachments/assets/c03e41eb-e088-4a20-a113-2372ea6b3994)
 
 Contrato de Licença: Concorde com os termos da licença para continuar.
 
