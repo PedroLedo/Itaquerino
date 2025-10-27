@@ -8,9 +8,9 @@ A placa Itaquerino não possui gravador usb interno, portanto, é necessario uti
 
 ---
 
-🛠️ 1. Conexões
+## 🛠️ 1. Conexões
 
-## Especificações da Placa Itaquerino
+## Ligações da placa Itaquerino com o conversor TTL
 
 <div align="center">
   
