@@ -28,7 +28,7 @@ O site geralmente detecta seu sistema operacional (Windows, macOS ou Linux) e su
  Para Windows
 Execute o Instalador: Após o download, você terá um arquivo .exe. Dê um duplo clique para iniciá-lo.
 
-![Texto alternativo](https://private-user-images.githubusercontent.com/91076859/506251394-1e169372-60b0-403b-9848-087504d9c52d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2MDI4NDYsIm5iZiI6MTc2MTYwMjU0NiwicGF0aCI6Ii85MTA3Njg1OS81MDYyNTEzOTQtMWUxNjkzNzItNjBiMC00MDNiLTk4NDgtMDg3NTA0ZDljNTJkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI3VDIyMDIyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3OTI5NWYzZDAxMWY4NmE1N2M1ZWQ1MDA2NGQzZWM4ZTc2ZmI0ZTRmZTkzYTUxNzNmZjgxMDBjOWYwNDQzODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8OFImEAzhxmL0M3pYYClIbNie3yHTQKz_gNPyM_VEx4)
+![Texto alternativo](https://github.com/PedroLedo/Itaquerino/issues/1#issue-3558794951)
 
 Contrato de Licença: Concorde com os termos da licença para continuar.
 
