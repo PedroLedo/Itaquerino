@@ -44,7 +44,6 @@ Antes de tudo, para que o computador reconheça corretamente o conversor, é nec
 
 </div>
 
----
 
 Para iniciar sua jornada com o Itaquerino, vamos realizar a primeira compilação utilizando o clássico exemplo do código Blink. Esse teste simples acende e apaga um LED em intervalos regulares, permitindo verificar se a placa está funcionando corretamente e se o ambiente de desenvolvimento está configurado adequadamente.
 
