@@ -25,6 +25,8 @@ A placa Itaquerino não possui gravador usb interno, portanto, é necessario uti
 
 ---
 
+Esta conexão permite tanto a compilação dos códigos quanto a alimentação da placa. No entanto, lembre-se: caso seu projeto exija uma corrente elevada, é altamente recomendável utilizar uma fonte de alimentação externa conectada ao borne da placa. Isso garante maior segurança e estabilidade no funcionamento do sistema.
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/98dc0dda-41a2-4e1c-87cb-3221c90491b6" alt="Texto alternativo" width="600">
 </div>
