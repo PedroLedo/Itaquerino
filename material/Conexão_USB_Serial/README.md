@@ -23,10 +23,12 @@ A placa Itaquerino não possui gravador usb interno, portanto, é necessario uti
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/98dc0dda-41a2-4e1c-87cb-3221c90491b6" alt="Texto alternativo" width="600">
 </div>
+
+---
 
 [![Voltar ao Repositório Inicial](https://img.shields.io/badge/Voltar%20ao%20Reposit%C3%B3rio%20Inicial-blue?style=for-the-badge&logo=github)](https://github.com/PedroLedo/Itaquerino/tree/main)
