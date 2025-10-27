@@ -39,7 +39,9 @@ Antes de tudo, para que o computador reconheça corretamente o conversor, é nec
 ---
 
 <div align="center">
+  
 [![Download CH340 Driver](https://img.shields.io/badge/Baixar-Driver%20CH340-28a745?style=for-the-badge&logo=download)](https://bitabittecnologia.com.br/wp-content/uploads/2022/05/CH341SER_DRIVER.zip)
+
 </div>
 
 ---
@@ -47,4 +49,8 @@ Antes de tudo, para que o computador reconheça corretamente o conversor, é nec
 Para iniciar sua jornada com o Itaquerino, vamos realizar a primeira compilação utilizando o clássico exemplo do código Blink. Esse teste simples acende e apaga um LED em intervalos regulares, permitindo verificar se a placa está funcionando corretamente e se o ambiente de desenvolvimento está configurado adequadamente.
 
 ---
+<div align="center">
+
 [![Voltar ao Repositório Inicial](https://img.shields.io/badge/Voltar%20ao%20Reposit%C3%B3rio%20Inicial-blue?style=for-the-badge&logo=github)](https://github.com/PedroLedo/Itaquerino/tree/main)
+
+</div>
