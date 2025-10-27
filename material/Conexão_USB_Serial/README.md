@@ -3,7 +3,7 @@
 A placa Itaquerino não possui gravador usb interno, portanto, é necessario utilizar um gravador externo, que neste caso é o com chip CH340.
 
 <div align="center">
-  <img src="https://github.com/PedroLedo/Itaquerino/issues/1#issue-3558794951" alt="Texto alternativo" width="600">
+  <img src="![Image](https://github.com/user-attachments/assets/2de064fc-d060-4de1-8695-da79a4c40526)" alt="Texto alternativo" width="600">
 </div>
 
 ---
