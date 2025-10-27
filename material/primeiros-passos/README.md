@@ -28,7 +28,7 @@ O site geralmente detecta seu sistema operacional (Windows, macOS ou Linux) e su
  Para Windows
 Execute o Instalador: Após o download, você terá um arquivo .exe. Dê um duplo clique para iniciá-lo.
 
-![Texto alternativo](Itaquerino/docs/imagem3.png)
+![Texto alternativo](![Image](https://github.com/user-attachments/assets/07a69936-89b9-4f42-a03b-fea5b06e1649))
 
 Contrato de Licença: Concorde com os termos da licença para continuar.
 
