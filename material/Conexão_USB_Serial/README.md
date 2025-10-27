@@ -12,12 +12,14 @@ A placa Itaquerino não possui gravador usb interno, portanto, é necessario uti
 
 ## Especificações da Placa Itaquerino
 
+<div align="center">
 | Itaquerino | Conversor |
 |---|---|
 | GND | GND |
 | TXD | RXD |
 | RXD | TXD |
 | 5V | 5V |
+</div>
 
 ---
 
