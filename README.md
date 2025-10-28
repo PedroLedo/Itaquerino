@@ -46,7 +46,7 @@ O repositório contém:
 ## 👥 Colaboradores
 
 - Prof. Daniel R. Sousa — orientação técnica, contribuição em design da placa.  
-  [GitHub: profdanielrsousa](https://github.com/profdanielrsousa)
+  [GitHub: profdanielrsousa](https://github.com/profdanielrsousa/itaquerino)
 
 ---
 
