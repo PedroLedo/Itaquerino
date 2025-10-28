@@ -46,5 +46,11 @@ Confirmação de Drivers: Durante o processo, o Windows pode pedir sua permissã
 
 Finalização: Ao final, clique em "Close". A Arduino IDE estará instalada e um atalho terá sido criado na sua área de trabalho.
 
+---
+
+[![Gravação Primeiro Código](https://img.shields.io/badge/Gravação%20Primeiro%20Código-blue?style=for-the-badge&logo=github)](seu-link-aqui)
+
+---
+
 [![Voltar ao Repositório Inicial](https://img.shields.io/badge/Voltar%20ao%20Reposit%C3%B3rio%20Inicial-blue?style=for-the-badge&logo=github)](https://github.com/PedroLedo/Itaquerino/tree/main)
 
