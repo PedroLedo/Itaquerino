@@ -48,7 +48,7 @@ Finalização: Ao final, clique em "Close". A Arduino IDE estará instalada e um
 
 ---
 
-[![Gravação Primeiro Código](https://img.shields.io/badge/Gravação%20Primeiro%20Código-blue?style=for-the-badge&logo=github)](seu-link-aqui)
+[![Gravação Primeiro Código](https://img.shields.io/badge/Gravação%20Primeiro%20Código-blue?style=for-the-badge&logo=github)](https://github.com/PedroLedo/Itaquerino/tree/main/material/Conex%C3%A3o_USB_Serial)
 
 ---
 
