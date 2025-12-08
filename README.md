@@ -83,4 +83,6 @@ Se é sua primeira vez com o Itaquerino, siga o guia de inicialização abaixo:
 
 ## 🛠️ projetos
 
-
+<a href="./material/primeiros-passos">
+  <img src="https://img.shields.io/badge/📘%20Acessar%20Projetos-blue?style=for-the-badge" alt="Projetos">
+</a>
