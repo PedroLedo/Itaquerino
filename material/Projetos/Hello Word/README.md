@@ -6,11 +6,11 @@ Como a placa não possui interface USB integrada, é obrigatório utilizar um ad
 
 Materiais:
 
--Itaquerino
--Adaptador TTL-USB (CH340, FT232 ou equivalente)
--Cabo USB
--Jumpers macho–fêmea
--Ligação do adaptador TTL-USB
+1.Itaquerino
+2.Adaptador TTL-USB (CH340, FT232 ou equivalente)
+3.Cabo USB
+4.Jumpers macho–fêmea
+5.Ligação do adaptador TTL-USB
 
 Conexões recomendadas:
 
