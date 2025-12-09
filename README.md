@@ -88,3 +88,7 @@ Se é sua primeira vez com o Itaquerino, siga o guia de inicialização abaixo:
 </a>
 
 ---
+
+<a href="./material/Projetos">
+  <img src="https://img.shields.io/badge/📘%20Acessar%20https://vestuarioaxel.my.canva.site/o-itaquerino-uma-placa-open-source-criada-por-estudantes-para-oferecer-uma-alternativa-nacional-e-acess-vel-a-tecnologias-embarcadas-desenvolvido-em-institui-es-p-blicas-de-ensino-o-projeto-busca-facilitar-o-aprendizado-de-eletr-nica-e-programa-o?style=for-the-badge" alt="Site">
+</a>
