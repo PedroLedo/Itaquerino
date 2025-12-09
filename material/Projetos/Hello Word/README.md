@@ -94,14 +94,13 @@ Erros comuns:
 
 <a href="../" style="
   display:inline-block;
-  padding:10px 18px;
-  background:#0d1117;
-  color:#fff;
-  border-radius:8px;
-  border:1px solid #30363d;
-  text-decoration:none;
+  padding:12px 20px;
+  background:#e5e7eb;
+  border:2px solid #9ca3af;
+  border-radius:4px;
+  color:#000;
   font-weight:600;
-  box-shadow:0 2px 4px rgba(0,0,0,0.2);
+  text-decoration:none;
 ">
 ⬅️ Voltar para Projetos
 </a>
