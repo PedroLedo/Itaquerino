@@ -73,17 +73,17 @@ As mensagens “LED ON/OFF” aparecem no Monitor Serial.
 
 Erros comuns:
 
-Inverter RX e TX.
-Usar tensão errada (3.3V em placa que exige 5V).
-Abrir o Monitor Serial em velocidade diferente de 9600 baud.
-Usar adaptador sem DTR e não resetar a placa na hora certa para gravar.
+1. Inverter RX e TX.
+2. Usar tensão errada (3.3V em placa que exige 5V).
+3. Abrir o Monitor Serial em velocidade diferente de 9600 baud.
+4. Usar adaptador sem DTR e não resetar a placa na hora certa para gravar.
 
 ---
 
 ## Desafios
 
-Alterar a frequência do piscar.
-Alternar entre dois LEDs externos.
-Criar uma animação de piscadas.
+1. Alterar a frequência do piscar.
+2. Alternar entre dois LEDs externos.
+3. Criar uma animação de piscadas.
 
 ---
