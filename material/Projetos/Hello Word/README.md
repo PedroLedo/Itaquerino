@@ -14,6 +14,8 @@ Materiais:
 
 Conexões recomendadas:
 
+---
+
 <div align="center">
   
 | Itaquerino | Conversor |
