@@ -17,8 +17,8 @@ O projeto nasceu com o objetivo de **democratizar o acesso à tecnologia** e **f
 
 ## ⚙️ Especificações Técnicas
 - Microcontrolador: **ATmega328P**  
-- Tensão de operação: **5V/3,3V**  
-- Tensão de entrada recomendada: **7–12V**  
+- Tensão de operação: **5V/3,3V DC**  
+- Tensão de entrada recomendada: **7–12V DC**  
 - Entradas/Saídas digitais: **14 (6 com PWM)**  
 - Entradas analógicas: **6**  
 - Comunicação serial: **UART, SPI, I²C**  
