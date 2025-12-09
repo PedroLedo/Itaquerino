@@ -64,9 +64,13 @@ void loop() {
 Como funciona:
 
 setup() roda só uma vez, após o reset.
+
 loop() roda repetidamente.
+
 digitalWrite() altera o estado lógico do pino 13.
+
 Serial.begin(9600) habilita o envio de dados para o computador via TTL.
+
 As mensagens “LED ON/OFF” aparecem no Monitor Serial.
 
 ---
