@@ -35,5 +35,24 @@ Esta conexão permite tanto a compilação dos códigos quanto a alimentação d
   <img src="https://github.com/user-attachments/assets/98dc0dda-41a2-4e1c-87cb-3221c90491b6" alt="Texto alternativo" width="600">
 </div>
 
-
 ---
+
+```ccp
+
+void setup() {
+  pinMode(13, OUTPUT);         // Configura o pino 13 como saída
+  Serial.begin(9600);          // Inicia o Monitor Serial
+  Serial.println("Hello, Itaquerino!");
+}
+
+void loop() {
+  digitalWrite(13, HIGH);      // Liga o LED
+  Serial.println("LED ON");
+  delay(500);
+
+  digitalWrite(13, LOW);       // Desliga o LED
+  Serial.println("LED OFF");
+  delay(500);
+}
+
+```
