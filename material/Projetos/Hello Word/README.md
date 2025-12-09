@@ -92,8 +92,6 @@ Erros comuns:
 
 ---
 
-<a href="./material/Projetos">
-  <img src="https://img.shields.io/badge/📘%20Acessar%20Projetos-blue?style=for-the-badge" alt="Projetos">
-</a>
+[📁 Voltar para Projetos](../)
 
 ---
