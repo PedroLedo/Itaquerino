@@ -92,6 +92,17 @@ Erros comuns:
 
 ---
 
-[📁 Voltar para Projetos](../)
+<a href="../" style="
+  display:inline-block;
+  padding:8px 14px;
+  background:#f3f4f6;
+  color:#111;
+  border:1px solid #d0d7de;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:600;
+">
+⬅️ Voltar
+</a>
 
 ---
