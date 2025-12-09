@@ -12,6 +12,8 @@ repita passos.
 
 ## Hello Word
 
-<a href="./material/primeiros-passos">
+<a href="./material/">
   <img src="https://img.shields.io/badge/📘%20Acessar%20Projeto-blue?style=for-the-badge" alt="Projetos">
 </a>
+
+---
