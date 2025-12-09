@@ -13,7 +13,7 @@ repita passos.
 ## Hello Word
 
 <a href="./material/Projetos/Hello Word">
-  <img src="https://img.shields.io/badge/📘%20Acessar%20Projeto-blue?style=for-the-badge" alt="Projetos">
+  <img src="https://img.shields.io/badge/📘%20Acessar%20Projeto-blue?style=for-the-badge" alt="Hello Word">
 </a>
 
 ---
