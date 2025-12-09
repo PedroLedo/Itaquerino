@@ -185,6 +185,10 @@ Assim que a mensagem "Uploading..." aparecer na barra inferior da Arduino IDE, p
 
 ---
 
+<div align="center">
+  
 <a href="./material/Projetos">
   <img src="https://img.shields.io/badge/📘%20Acessar%20Projetos-blue?style=for-the-badge" alt="Projetos">
 </a>
+
+</div>
