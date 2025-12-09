@@ -11,3 +11,5 @@ O objetivo é entender como controlar múltiplos pinos digitais ao mesmo tempo e
 - Jumpers  
 - Protoboard  
 - Adaptador TTL-USB (para gravação)
+
+![Texto alternativo](https://github.com/user-attachments/assets/a5c9f414-80f6-4fc9-95bd-0590617c63c0)
