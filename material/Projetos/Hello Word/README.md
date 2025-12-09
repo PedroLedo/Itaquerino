@@ -25,6 +25,8 @@ Conexões recomendadas:
 
 </div>
 
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/98dc0dda-41a2-4e1c-87cb-3221c90491b6" alt="Texto alternativo" width="600">
 </div>
