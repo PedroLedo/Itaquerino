@@ -1,5 +1,3 @@
----
-
 # Projeto 01 — Hello World (Blink + Serial)
 
 Este primeiro projeto apresenta o funcionamento básico do Itaquerino:
