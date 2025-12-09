@@ -37,7 +37,7 @@ Esta conexão permite tanto a compilação dos códigos quanto a alimentação d
 
 ---
 
-```ccp
+```cpp
 
 void setup() {
   pinMode(13, OUTPUT);         // Configura o pino 13 como saída
