@@ -37,6 +37,8 @@ Esta conexão permite tanto a compilação dos códigos quanto a alimentação d
 
 ---
 
+Copie e cole na IDE do Arduino o codigo disponibilizado abaixo:
+
 ```cpp
 
 void setup() {
@@ -56,3 +58,32 @@ void loop() {
 }
 
 ```
+
+---
+
+Como funciona:
+
+setup() roda só uma vez, após o reset.
+loop() roda repetidamente.
+digitalWrite() altera o estado lógico do pino 13.
+Serial.begin(9600) habilita o envio de dados para o computador via TTL.
+As mensagens “LED ON/OFF” aparecem no Monitor Serial.
+
+---
+
+Erros comuns:
+
+Inverter RX e TX.
+Usar tensão errada (3.3V em placa que exige 5V).
+Abrir o Monitor Serial em velocidade diferente de 9600 baud.
+Usar adaptador sem DTR e não resetar a placa na hora certa para gravar.
+
+---
+
+## Desafios
+
+Alterar a frequência do piscar.
+Alternar entre dois LEDs externos.
+Criar uma animação de piscadas.
+
+---
