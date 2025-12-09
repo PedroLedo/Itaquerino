@@ -178,17 +178,17 @@ Assim que a mensagem "Uploading..." aparecer na barra inferior da Arduino IDE, p
 ---
 
 <div align="center">
-
-[![Voltar ao Repositório Inicial](https://img.shields.io/badge/Voltar%20ao%20Reposit%C3%B3rio%20Inicial-blue?style=for-the-badge&logo=github)](https://github.com/PedroLedo/Itaquerino/tree/main)
+  
+<a href="https://github.com/PedroLedo/Itaquerino/tree/main/material/Projetos">
+  <img src="https://img.shields.io/badge/📘%20Acessar%20Projetos-blue?style=for-the-badge" alt="Projetos">
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  
-<a href="https://github.com/PedroLedo/Itaquerino/tree/main/material/Projetos">
-  <img src="https://img.shields.io/badge/📘%20Acessar%20Projetos-blue?style=for-the-badge" alt="Projetos">
-</a>
+
+[![Voltar ao Repositório Inicial](https://img.shields.io/badge/Voltar%20ao%20Reposit%C3%B3rio%20Inicial-blue?style=for-the-badge&logo=github)](https://github.com/PedroLedo/Itaquerino/tree/main)
 
 </div>
