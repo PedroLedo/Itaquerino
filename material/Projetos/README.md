@@ -17,3 +17,11 @@ repita passos.
 </a>
 
 ---
+
+## Semaforo
+
+<a href="./Hello Word">
+  <img src="https://img.shields.io/badge/📘%20Acessar%20Projeto-blue?style=for-the-badge" alt="Semaforo">
+</a>
+
+---
