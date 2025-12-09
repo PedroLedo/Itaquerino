@@ -20,9 +20,7 @@ Conecte os pinos conforme indicado no esquema a seguir.
 ---
 
 <div align="center">
-  
-[![Download CH340 Driver](https://img.shields.io/badge/Baixar-Driver%20CH340-28a745?style=for-the-badge&logo=download)](https://bitabittecnologia.com.br/wp-content/uploads/2022/05/CH341SER_DRIVER.zip)
-
+  <img src="https://github.com/user-attachments/assets/98dc0dda-41a2-4e1c-87cb-3221c90491b6" alt="Texto alternativo" width="600">
 </div>
 
 ---
