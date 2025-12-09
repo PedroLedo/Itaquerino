@@ -12,7 +12,7 @@ O objetivo é entender como controlar múltiplos pinos digitais ao mesmo tempo e
 - Protoboard  
 - Adaptador TTL-USB (para gravação)
 
-  ---
+---
 
 Para carregar o código no Itaquerino, é obrigatório realizar a ligação correta do adaptador TTL-USB.  
 Conecte os pinos conforme indicado no esquema a seguir.
@@ -22,6 +22,10 @@ Conecte os pinos conforme indicado no esquema a seguir.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/98dc0dda-41a2-4e1c-87cb-3221c90491b6" alt="Texto alternativo" width="600">
 </div>
+
+---
+
+Com o adaptador TTL já conectado, podemos seguir para a montagem da parte responsável pelo funcionamento do semáforo.
 
 ---
 
