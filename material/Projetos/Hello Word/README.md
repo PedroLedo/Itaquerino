@@ -92,17 +92,9 @@ Erros comuns:
 
 ---
 
-<a href="../" style="
-  display:inline-block;
-  padding:12px 20px;
-  background:#e5e7eb;
-  border:2px solid #9ca3af;
-  border-radius:4px;
-  color:#000;
-  font-weight:600;
-  text-decoration:none;
-">
-⬅️ Voltar para Projetos
+<a href="../">
+  <img src="https://img.shields.io/badge/⬅️%20Voltar%20para%20Projetos-blue?style=for-the-badge" alt="Voltar para Projetos">
 </a>
+
 
 ---
